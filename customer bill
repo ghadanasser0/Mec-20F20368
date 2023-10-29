@@ -3,3 +3,6 @@ public static void main(String args[])
 double price1;
 double price 2;
 double sum;
+sum = price1+price2;
+System.out.println(" the total of the bill is" + sum);
+
