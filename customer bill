@@ -1,0 +1,5 @@
+class cusbill{
+public static void main(String args[])
+double price1;
+double price 2;
+double sum;
