@@ -5,4 +5,4 @@ double price 2;
 double sum;
 sum = price1+price2;
 System.out.println(" the total of the bill is" + sum);
-
+hi i am zahra
