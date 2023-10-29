@@ -5,4 +5,14 @@ double price 2;
 double sum;
 sum = price1+price2;
 System.out.println(" the total of the bill is" + sum);
+if (sum >500){
+sum=(price1+price2) /0.5%;
+System.out.println(" bill with discount:" +sum);
+}
+else
+{
+sum=(price1+price2) /0.5%;
+System.out.println(" bill with discount:" +sum);
+}
+
 
